@@ -3,8 +3,8 @@ A Computer Part selector that uses Deep-Q learning to recommend PC parts based o
 
 ## Installation
 
-1. Install the file by clicking on the kebab (⋮) menu at the file and click download
-2. navigate to the downloaded file path, create the venv, and activate it:
+1. clone the repo: ``https://github.com/ableflyer/PcPartPicker-RL.git``
+2. create the venv, and activate it:
 ```
 py -m venv venv
 
